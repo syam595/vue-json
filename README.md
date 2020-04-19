@@ -1,5 +1,6 @@
-# circulytest
+# Vue-json
 
+Basic operations on an external json file in vuejs
 ## Project setup
 ```
 npm install
